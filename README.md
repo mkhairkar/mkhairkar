@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, my name is Mayur khairkar. I am a React developer with 3+ years of experience in building scalable and efficient web applications.<br>I specializelin React, Next.js, Javascript, typescript, HTML, and CSS, and have strong experience in developing modern, high-performance applications.<br>I enjoy solving complex technical problems and continuously learning new technologies to build impactful products.
+Hello, my name is Mayur khairkar. I am a React developer with 3+ years of experience in building scalable and efficient web applications.<br>I specializel in React, Next.js, Javascript, typescript, HTML, and CSS, and have strong experience in developing modern, high-performance applications.<br>I enjoy solving complex technical problems and continuously learning new technologies to build impactful products.
 
 
 ## 🌐 Socials:
